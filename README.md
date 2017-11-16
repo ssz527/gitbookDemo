@@ -35,9 +35,7 @@ public class helloworld {
 
 
 
-$$
-3+3=66
-$$
+$$3+3=66$$
 
 
 
