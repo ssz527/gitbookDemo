@@ -16,7 +16,7 @@
 
 ---
 
-<div>
+<div style="background-color:red; height:100px">
     hello
 </div>
 
